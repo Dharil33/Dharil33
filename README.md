@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharil33&show_icons=true&locale=en&layout=compact" alt="dharil33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharil33&show_icons=true&locale=en" alt="dharil33" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharil33&" alt="dharil33" /></p>
