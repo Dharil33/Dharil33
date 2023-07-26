@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharil</h1>
+<h1 align="center">Hi 👋, I'm Dharil Patel</h1>
 <h3 align="center">Full Stack Data Scientist ,MLOps, Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharil33" alt="dharil33" /></a> </p>
