@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharil Patel</h1>
-<h3 align="center">Full Stack Data Scientist ,MLOps, Full Stack Developer</h3>
+<h3 align="center">Data Scientist, MLOps, M.Tech in Artificial Intelligence & Machine Learning, AI Researcher, Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharil33" alt="dharil33" /></a> </p>
 
